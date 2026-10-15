@@ -1,0 +1,2 @@
+ #define size(30)
+ my name is sudar
